@@ -1,1 +1,1 @@
-# FoodieHub
+This website is built using HTML, CSS, and Bootstrap to create a fully responsive online food ordering platform. Bootstrap's grid system and components were utilized to ensure mobile-friendliness and a consistent layout across devices. Custom styles were added using CSS, while JavaScript enhances the interactive elements. The design focuses on simplicity and ease of use for an optimized user experience.
